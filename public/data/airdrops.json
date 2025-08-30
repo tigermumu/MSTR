@@ -1,0 +1,18 @@
+[
+  {
+    "rank": 1,
+    "name": "Falcon Finance",
+    "season": "Season 0",
+    "risk": { "label": "R2 中风险", "tone": "warning" },
+    "airdrop": "5% (Pre-launch)",
+    "apy": "7.9%"
+  },
+  {
+    "rank": 2,
+    "name": "Huma Finance",
+    "season": "Season 2",
+    "risk": { "label": "R3 中高风险", "tone": "danger" },
+    "airdrop": "2%",
+    "apy": "10%"
+  }
+]

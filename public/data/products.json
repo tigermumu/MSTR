@@ -1,0 +1,35 @@
+[
+  {
+    "id": "usdc",
+    "title": "USDC",
+    "subtitle": "Binance Earn",
+    "platform": "Binance Earn",
+    "apy": "12%",
+    "footerLeft": "Subsidy",
+    "footerRight": "R1 Low-risk",
+    "apyNote": "(2% Base APY + 10% Bonus APY)",
+    "risk": "R1 Low-risk"
+  },
+  {
+    "id": "ethena-usd",
+    "title": "Ethena USD",
+    "subtitle": "Ethena",
+    "platform": "Ethena",
+    "apy": "7.72%",
+    "footerLeft": "Delta-neutral",
+    "footerRight": "R1 Low-risk",
+    "apyNote": "Delta-neutral strategy",
+    "risk": "R1 Low-risk"
+  },
+  {
+    "id": "usds",
+    "title": "USDS",
+    "subtitle": "Sky",
+    "platform": "Sky",
+    "apy": "4.75%",
+    "footerLeft": "U.S. Treasuries",
+    "footerRight": "R1 Low-risk",
+    "apyNote": "U.S. Treasuries backing",
+    "risk": "R1 Low-risk"
+  }
+]
